@@ -1,3 +1,5 @@
+# push test
+
 create database advanced_tutorial;
 
 create schema tutorial;
